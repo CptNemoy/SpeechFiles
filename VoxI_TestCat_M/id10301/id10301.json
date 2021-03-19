@@ -1,0 +1,72 @@
+{
+    "alignment": "LSB",
+    "channel_labels": [
+        "M+000"
+    ],
+    "duration_in_samples": 4555569,
+    "event": [
+        {
+            "end_sample": 1633369,
+            "label": "speech",
+            "start_sample": 7
+        },
+        {
+            "end_sample": 2480275,
+            "label": "speech",
+            "start_sample": 1652112
+        },
+        {
+            "end_sample": 2969555,
+            "label": "speech",
+            "start_sample": 2498739
+        },
+        {
+            "end_sample": 4551897,
+            "label": "speech",
+            "start_sample": 2986359
+        }
+    ],
+    "format": "WAV",
+    "num_channels": 1,
+    "original": {
+        "alignment": "LSB",
+        "channel_labels": [
+            "M+000"
+        ],
+        "duration_in_samples": 4555569,
+        "event": [
+            {
+                "end_sample": 1633369,
+                "label": "speech",
+                "start_sample": 7
+            },
+            {
+                "end_sample": 2480275,
+                "label": "speech",
+                "start_sample": 1652112
+            },
+            {
+                "end_sample": 2969555,
+                "label": "speech",
+                "start_sample": 2498739
+            },
+            {
+                "end_sample": 4551897,
+                "label": "speech",
+                "start_sample": 2986359
+            }
+        ],
+        "format": "WAV",
+        "num_channels": 1,
+        "path": "/vol0/data/projects/aeid/16_kHz/VoxCeleb_I/TestCat/id10301/id10301.wav",
+        "sample_resolution_in_bits": 16,
+        "sampling_rate": 16000,
+        "set": null,
+        "subtype": "PCM_16"
+    },
+    "path": "/vol0/data/projects/aeid/16_kHz/VoxCeleb_I/TestCat/id10301/id10301.wav",
+    "sample_resolution_in_bits": 16,
+    "sampling_rate": 16000,
+    "set": null,
+    "subtype": "PCM_16"
+}

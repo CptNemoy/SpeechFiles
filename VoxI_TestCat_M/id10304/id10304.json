@@ -1,0 +1,1452 @@
+{
+    "alignment": "LSB",
+    "channel_labels": [
+        "M+000"
+    ],
+    "duration_in_samples": 21740323,
+    "event": [
+        {
+            "end_sample": 16061,
+            "label": "speech",
+            "start_sample": 15721
+        },
+        {
+            "end_sample": 246559,
+            "label": "speech",
+            "start_sample": 102848
+        },
+        {
+            "end_sample": 299821,
+            "label": "speech",
+            "start_sample": 262833
+        },
+        {
+            "end_sample": 537760,
+            "label": "speech",
+            "start_sample": 318623
+        },
+        {
+            "end_sample": 678584,
+            "label": "speech",
+            "start_sample": 556859
+        },
+        {
+            "end_sample": 893509,
+            "label": "speech",
+            "start_sample": 702629
+        },
+        {
+            "end_sample": 1454959,
+            "label": "speech",
+            "start_sample": 909639
+        },
+        {
+            "end_sample": 1789231,
+            "label": "speech",
+            "start_sample": 1474645
+        },
+        {
+            "end_sample": 1972682,
+            "label": "speech",
+            "start_sample": 1810923
+        },
+        {
+            "end_sample": 2131705,
+            "label": "speech",
+            "start_sample": 1993385
+        },
+        {
+            "end_sample": 2176000,
+            "label": "speech",
+            "start_sample": 2151610
+        },
+        {
+            "end_sample": 2198285,
+            "label": "speech",
+            "start_sample": 2198018
+        },
+        {
+            "end_sample": 2267409,
+            "label": "speech",
+            "start_sample": 2235619
+        },
+        {
+            "end_sample": 2944264,
+            "label": "speech",
+            "start_sample": 2298490
+        },
+        {
+            "end_sample": 3002176,
+            "label": "speech",
+            "start_sample": 2977508
+        },
+        {
+            "end_sample": 5445195,
+            "label": "speech",
+            "start_sample": 3035615
+        },
+        {
+            "end_sample": 5488595,
+            "label": "speech",
+            "start_sample": 5475567
+        },
+        {
+            "end_sample": 5544266,
+            "label": "speech",
+            "start_sample": 5523303
+        },
+        {
+            "end_sample": 5621201,
+            "label": "speech",
+            "start_sample": 5621078
+        },
+        {
+            "end_sample": 5913426,
+            "label": "speech",
+            "start_sample": 5913425
+        },
+        {
+            "end_sample": 5979936,
+            "label": "speech",
+            "start_sample": 5979711
+        },
+        {
+            "end_sample": 6125958,
+            "label": "speech",
+            "start_sample": 6109388
+        },
+        {
+            "end_sample": 6287988,
+            "label": "speech",
+            "start_sample": 6170039
+        },
+        {
+            "end_sample": 6360186,
+            "label": "speech",
+            "start_sample": 6304967
+        },
+        {
+            "end_sample": 6420589,
+            "label": "speech",
+            "start_sample": 6419657
+        },
+        {
+            "end_sample": 6473781,
+            "label": "speech",
+            "start_sample": 6464765
+        },
+        {
+            "end_sample": 6549537,
+            "label": "speech",
+            "start_sample": 6502914
+        },
+        {
+            "end_sample": 6631775,
+            "label": "speech",
+            "start_sample": 6576785
+        },
+        {
+            "end_sample": 6690550,
+            "label": "speech",
+            "start_sample": 6677014
+        },
+        {
+            "end_sample": 6774142,
+            "label": "speech",
+            "start_sample": 6771872
+        },
+        {
+            "end_sample": 6796160,
+            "label": "speech",
+            "start_sample": 6794587
+        },
+        {
+            "end_sample": 6817356,
+            "label": "speech",
+            "start_sample": 6816252
+        },
+        {
+            "end_sample": 6988186,
+            "label": "speech",
+            "start_sample": 6868590
+        },
+        {
+            "end_sample": 7056439,
+            "label": "speech",
+            "start_sample": 7038336
+        },
+        {
+            "end_sample": 7099029,
+            "label": "speech",
+            "start_sample": 7086196
+        },
+        {
+            "end_sample": 7167201,
+            "label": "speech",
+            "start_sample": 7124381
+        },
+        {
+            "end_sample": 7191643,
+            "label": "speech",
+            "start_sample": 7190686
+        },
+        {
+            "end_sample": 7240584,
+            "label": "speech",
+            "start_sample": 7214897
+        },
+        {
+            "end_sample": 7442112,
+            "label": "speech",
+            "start_sample": 7441064
+        },
+        {
+            "end_sample": 7595767,
+            "label": "speech",
+            "start_sample": 7517753
+        },
+        {
+            "end_sample": 8219757,
+            "label": "speech",
+            "start_sample": 7611985
+        },
+        {
+            "end_sample": 8422552,
+            "label": "speech",
+            "start_sample": 8236583
+        },
+        {
+            "end_sample": 8498974,
+            "label": "speech",
+            "start_sample": 8453214
+        },
+        {
+            "end_sample": 8515660,
+            "label": "speech",
+            "start_sample": 8515383
+        },
+        {
+            "end_sample": 8534114,
+            "label": "speech",
+            "start_sample": 8532383
+        },
+        {
+            "end_sample": 8580867,
+            "label": "speech",
+            "start_sample": 8574010
+        },
+        {
+            "end_sample": 8605344,
+            "label": "speech",
+            "start_sample": 8604098
+        },
+        {
+            "end_sample": 8697226,
+            "label": "speech",
+            "start_sample": 8629792
+        },
+        {
+            "end_sample": 8759748,
+            "label": "speech",
+            "start_sample": 8753854
+        },
+        {
+            "end_sample": 8806771,
+            "label": "speech",
+            "start_sample": 8784214
+        },
+        {
+            "end_sample": 8868121,
+            "label": "speech",
+            "start_sample": 8829776
+        },
+        {
+            "end_sample": 8907897,
+            "label": "speech",
+            "start_sample": 8894675
+        },
+        {
+            "end_sample": 9102485,
+            "label": "speech",
+            "start_sample": 9101937
+        },
+        {
+            "end_sample": 9259958,
+            "label": "speech",
+            "start_sample": 9247873
+        },
+        {
+            "end_sample": 9343511,
+            "label": "speech",
+            "start_sample": 9340375
+        },
+        {
+            "end_sample": 9394832,
+            "label": "speech",
+            "start_sample": 9380582
+        },
+        {
+            "end_sample": 9429936,
+            "label": "speech",
+            "start_sample": 9419284
+        },
+        {
+            "end_sample": 9480668,
+            "label": "speech",
+            "start_sample": 9446978
+        },
+        {
+            "end_sample": 9575066,
+            "label": "speech",
+            "start_sample": 9501469
+        },
+        {
+            "end_sample": 9630646,
+            "label": "speech",
+            "start_sample": 9629410
+        },
+        {
+            "end_sample": 9649242,
+            "label": "speech",
+            "start_sample": 9648629
+        },
+        {
+            "end_sample": 9748091,
+            "label": "speech",
+            "start_sample": 9748090
+        },
+        {
+            "end_sample": 9767640,
+            "label": "speech",
+            "start_sample": 9764579
+        },
+        {
+            "end_sample": 9795430,
+            "label": "speech",
+            "start_sample": 9793449
+        },
+        {
+            "end_sample": 9816074,
+            "label": "speech",
+            "start_sample": 9811610
+        },
+        {
+            "end_sample": 9837005,
+            "label": "speech",
+            "start_sample": 9835225
+        },
+        {
+            "end_sample": 9862608,
+            "label": "speech",
+            "start_sample": 9862607
+        },
+        {
+            "end_sample": 9977964,
+            "label": "speech",
+            "start_sample": 9948808
+        },
+        {
+            "end_sample": 10018189,
+            "label": "speech",
+            "start_sample": 9996059
+        },
+        {
+            "end_sample": 10044306,
+            "label": "speech",
+            "start_sample": 10044305
+        },
+        {
+            "end_sample": 10085489,
+            "label": "speech",
+            "start_sample": 10065586
+        },
+        {
+            "end_sample": 10135785,
+            "label": "speech",
+            "start_sample": 10121625
+        },
+        {
+            "end_sample": 10474830,
+            "label": "speech",
+            "start_sample": 10152496
+        },
+        {
+            "end_sample": 10568199,
+            "label": "speech",
+            "start_sample": 10500324
+        },
+        {
+            "end_sample": 10592635,
+            "label": "speech",
+            "start_sample": 10585360
+        },
+        {
+            "end_sample": 10636528,
+            "label": "speech",
+            "start_sample": 10610572
+        },
+        {
+            "end_sample": 10689893,
+            "label": "speech",
+            "start_sample": 10684796
+        },
+        {
+            "end_sample": 10736715,
+            "label": "speech",
+            "start_sample": 10714130
+        },
+        {
+            "end_sample": 10792325,
+            "label": "speech",
+            "start_sample": 10767071
+        },
+        {
+            "end_sample": 10875317,
+            "label": "speech",
+            "start_sample": 10823279
+        },
+        {
+            "end_sample": 10974329,
+            "label": "speech",
+            "start_sample": 10896994
+        },
+        {
+            "end_sample": 11089673,
+            "label": "speech",
+            "start_sample": 10998621
+        },
+        {
+            "end_sample": 11107211,
+            "label": "speech",
+            "start_sample": 11106653
+        },
+        {
+            "end_sample": 11129965,
+            "label": "speech",
+            "start_sample": 11129335
+        },
+        {
+            "end_sample": 11152063,
+            "label": "speech",
+            "start_sample": 11151628
+        },
+        {
+            "end_sample": 11180374,
+            "label": "speech",
+            "start_sample": 11179001
+        },
+        {
+            "end_sample": 11229089,
+            "label": "speech",
+            "start_sample": 11227863
+        },
+        {
+            "end_sample": 11272906,
+            "label": "speech",
+            "start_sample": 11266477
+        },
+        {
+            "end_sample": 11330901,
+            "label": "speech",
+            "start_sample": 11308302
+        },
+        {
+            "end_sample": 11423166,
+            "label": "speech",
+            "start_sample": 11370307
+        },
+        {
+            "end_sample": 11482010,
+            "label": "speech",
+            "start_sample": 11441737
+        },
+        {
+            "end_sample": 11540272,
+            "label": "speech",
+            "start_sample": 11538512
+        },
+        {
+            "end_sample": 11596415,
+            "label": "speech",
+            "start_sample": 11568496
+        },
+        {
+            "end_sample": 11828034,
+            "label": "speech",
+            "start_sample": 11620707
+        },
+        {
+            "end_sample": 12099398,
+            "label": "speech",
+            "start_sample": 11847552
+        },
+        {
+            "end_sample": 12705026,
+            "label": "speech",
+            "start_sample": 12117384
+        },
+        {
+            "end_sample": 12791962,
+            "label": "speech",
+            "start_sample": 12727527
+        },
+        {
+            "end_sample": 12848853,
+            "label": "speech",
+            "start_sample": 12818547
+        },
+        {
+            "end_sample": 12937830,
+            "label": "speech",
+            "start_sample": 12867424
+        },
+        {
+            "end_sample": 13171375,
+            "label": "speech",
+            "start_sample": 12955176
+        },
+        {
+            "end_sample": 13585810,
+            "label": "speech",
+            "start_sample": 13205643
+        },
+        {
+            "end_sample": 13701644,
+            "label": "speech",
+            "start_sample": 13603891
+        },
+        {
+            "end_sample": 14054616,
+            "label": "speech",
+            "start_sample": 13720320
+        },
+        {
+            "end_sample": 14398619,
+            "label": "speech",
+            "start_sample": 14072444
+        },
+        {
+            "end_sample": 14572056,
+            "label": "speech",
+            "start_sample": 14426427
+        },
+        {
+            "end_sample": 14941330,
+            "label": "speech",
+            "start_sample": 14594141
+        },
+        {
+            "end_sample": 15131657,
+            "label": "speech",
+            "start_sample": 14959062
+        },
+        {
+            "end_sample": 15217344,
+            "label": "speech",
+            "start_sample": 15150756
+        },
+        {
+            "end_sample": 15246049,
+            "label": "speech",
+            "start_sample": 15234140
+        },
+        {
+            "end_sample": 15287092,
+            "label": "speech",
+            "start_sample": 15262202
+        },
+        {
+            "end_sample": 15472181,
+            "label": "speech",
+            "start_sample": 15303972
+        },
+        {
+            "end_sample": 15513933,
+            "label": "speech",
+            "start_sample": 15490361
+        },
+        {
+            "end_sample": 16592152,
+            "label": "speech",
+            "start_sample": 15534021
+        },
+        {
+            "end_sample": 16718385,
+            "label": "speech",
+            "start_sample": 16610325
+        },
+        {
+            "end_sample": 16787115,
+            "label": "speech",
+            "start_sample": 16746674
+        },
+        {
+            "end_sample": 16880103,
+            "label": "speech",
+            "start_sample": 16810142
+        },
+        {
+            "end_sample": 17459298,
+            "label": "speech",
+            "start_sample": 16896494
+        },
+        {
+            "end_sample": 17503997,
+            "label": "speech",
+            "start_sample": 17481825
+        },
+        {
+            "end_sample": 17804877,
+            "label": "speech",
+            "start_sample": 17523505
+        },
+        {
+            "end_sample": 18242544,
+            "label": "speech",
+            "start_sample": 17822051
+        },
+        {
+            "end_sample": 18407318,
+            "label": "speech",
+            "start_sample": 18261417
+        },
+        {
+            "end_sample": 18484658,
+            "label": "speech",
+            "start_sample": 18424752
+        },
+        {
+            "end_sample": 19762300,
+            "label": "speech",
+            "start_sample": 18501480
+        },
+        {
+            "end_sample": 19871195,
+            "label": "speech",
+            "start_sample": 19789934
+        },
+        {
+            "end_sample": 19979031,
+            "label": "speech",
+            "start_sample": 19888000
+        },
+        {
+            "end_sample": 20026453,
+            "label": "speech",
+            "start_sample": 19995956
+        },
+        {
+            "end_sample": 20067336,
+            "label": "speech",
+            "start_sample": 20047703
+        },
+        {
+            "end_sample": 20235812,
+            "label": "speech",
+            "start_sample": 20088814
+        },
+        {
+            "end_sample": 20272635,
+            "label": "speech",
+            "start_sample": 20255845
+        },
+        {
+            "end_sample": 20435429,
+            "label": "speech",
+            "start_sample": 20310559
+        },
+        {
+            "end_sample": 20504379,
+            "label": "speech",
+            "start_sample": 20454867
+        },
+        {
+            "end_sample": 20524173,
+            "label": "speech",
+            "start_sample": 20521212
+        },
+        {
+            "end_sample": 20715419,
+            "label": "speech",
+            "start_sample": 20545185
+        },
+        {
+            "end_sample": 20763401,
+            "label": "speech",
+            "start_sample": 20733582
+        },
+        {
+            "end_sample": 20827468,
+            "label": "speech",
+            "start_sample": 20782561
+        },
+        {
+            "end_sample": 20846364,
+            "label": "speech",
+            "start_sample": 20843969
+        },
+        {
+            "end_sample": 20925264,
+            "label": "speech",
+            "start_sample": 20874970
+        },
+        {
+            "end_sample": 20965060,
+            "label": "speech",
+            "start_sample": 20957356
+        },
+        {
+            "end_sample": 21068630,
+            "label": "speech",
+            "start_sample": 20988143
+        },
+        {
+            "end_sample": 21114499,
+            "label": "speech",
+            "start_sample": 21096471
+        },
+        {
+            "end_sample": 21472785,
+            "label": "speech",
+            "start_sample": 21133681
+        },
+        {
+            "end_sample": 21739452,
+            "label": "speech",
+            "start_sample": 21489654
+        }
+    ],
+    "format": "WAV",
+    "num_channels": 1,
+    "original": {
+        "alignment": "LSB",
+        "channel_labels": [
+            "M+000"
+        ],
+        "duration_in_samples": 21740323,
+        "event": [
+            {
+                "end_sample": 16061,
+                "label": "speech",
+                "start_sample": 15721
+            },
+            {
+                "end_sample": 246559,
+                "label": "speech",
+                "start_sample": 102848
+            },
+            {
+                "end_sample": 299821,
+                "label": "speech",
+                "start_sample": 262833
+            },
+            {
+                "end_sample": 537760,
+                "label": "speech",
+                "start_sample": 318623
+            },
+            {
+                "end_sample": 678584,
+                "label": "speech",
+                "start_sample": 556859
+            },
+            {
+                "end_sample": 893509,
+                "label": "speech",
+                "start_sample": 702629
+            },
+            {
+                "end_sample": 1454959,
+                "label": "speech",
+                "start_sample": 909639
+            },
+            {
+                "end_sample": 1789231,
+                "label": "speech",
+                "start_sample": 1474645
+            },
+            {
+                "end_sample": 1972682,
+                "label": "speech",
+                "start_sample": 1810923
+            },
+            {
+                "end_sample": 2131705,
+                "label": "speech",
+                "start_sample": 1993385
+            },
+            {
+                "end_sample": 2176000,
+                "label": "speech",
+                "start_sample": 2151610
+            },
+            {
+                "end_sample": 2198285,
+                "label": "speech",
+                "start_sample": 2198018
+            },
+            {
+                "end_sample": 2267409,
+                "label": "speech",
+                "start_sample": 2235619
+            },
+            {
+                "end_sample": 2944264,
+                "label": "speech",
+                "start_sample": 2298490
+            },
+            {
+                "end_sample": 3002176,
+                "label": "speech",
+                "start_sample": 2977508
+            },
+            {
+                "end_sample": 5445195,
+                "label": "speech",
+                "start_sample": 3035615
+            },
+            {
+                "end_sample": 5488595,
+                "label": "speech",
+                "start_sample": 5475567
+            },
+            {
+                "end_sample": 5544266,
+                "label": "speech",
+                "start_sample": 5523303
+            },
+            {
+                "end_sample": 5621201,
+                "label": "speech",
+                "start_sample": 5621078
+            },
+            {
+                "end_sample": 5913426,
+                "label": "speech",
+                "start_sample": 5913425
+            },
+            {
+                "end_sample": 5979936,
+                "label": "speech",
+                "start_sample": 5979711
+            },
+            {
+                "end_sample": 6125958,
+                "label": "speech",
+                "start_sample": 6109388
+            },
+            {
+                "end_sample": 6287988,
+                "label": "speech",
+                "start_sample": 6170039
+            },
+            {
+                "end_sample": 6360186,
+                "label": "speech",
+                "start_sample": 6304967
+            },
+            {
+                "end_sample": 6420589,
+                "label": "speech",
+                "start_sample": 6419657
+            },
+            {
+                "end_sample": 6473781,
+                "label": "speech",
+                "start_sample": 6464765
+            },
+            {
+                "end_sample": 6549537,
+                "label": "speech",
+                "start_sample": 6502914
+            },
+            {
+                "end_sample": 6631775,
+                "label": "speech",
+                "start_sample": 6576785
+            },
+            {
+                "end_sample": 6690550,
+                "label": "speech",
+                "start_sample": 6677014
+            },
+            {
+                "end_sample": 6774142,
+                "label": "speech",
+                "start_sample": 6771872
+            },
+            {
+                "end_sample": 6796160,
+                "label": "speech",
+                "start_sample": 6794587
+            },
+            {
+                "end_sample": 6817356,
+                "label": "speech",
+                "start_sample": 6816252
+            },
+            {
+                "end_sample": 6988186,
+                "label": "speech",
+                "start_sample": 6868590
+            },
+            {
+                "end_sample": 7056439,
+                "label": "speech",
+                "start_sample": 7038336
+            },
+            {
+                "end_sample": 7099029,
+                "label": "speech",
+                "start_sample": 7086196
+            },
+            {
+                "end_sample": 7167201,
+                "label": "speech",
+                "start_sample": 7124381
+            },
+            {
+                "end_sample": 7191643,
+                "label": "speech",
+                "start_sample": 7190686
+            },
+            {
+                "end_sample": 7240584,
+                "label": "speech",
+                "start_sample": 7214897
+            },
+            {
+                "end_sample": 7442112,
+                "label": "speech",
+                "start_sample": 7441064
+            },
+            {
+                "end_sample": 7595767,
+                "label": "speech",
+                "start_sample": 7517753
+            },
+            {
+                "end_sample": 8219757,
+                "label": "speech",
+                "start_sample": 7611985
+            },
+            {
+                "end_sample": 8422552,
+                "label": "speech",
+                "start_sample": 8236583
+            },
+            {
+                "end_sample": 8498974,
+                "label": "speech",
+                "start_sample": 8453214
+            },
+            {
+                "end_sample": 8515660,
+                "label": "speech",
+                "start_sample": 8515383
+            },
+            {
+                "end_sample": 8534114,
+                "label": "speech",
+                "start_sample": 8532383
+            },
+            {
+                "end_sample": 8580867,
+                "label": "speech",
+                "start_sample": 8574010
+            },
+            {
+                "end_sample": 8605344,
+                "label": "speech",
+                "start_sample": 8604098
+            },
+            {
+                "end_sample": 8697226,
+                "label": "speech",
+                "start_sample": 8629792
+            },
+            {
+                "end_sample": 8759748,
+                "label": "speech",
+                "start_sample": 8753854
+            },
+            {
+                "end_sample": 8806771,
+                "label": "speech",
+                "start_sample": 8784214
+            },
+            {
+                "end_sample": 8868121,
+                "label": "speech",
+                "start_sample": 8829776
+            },
+            {
+                "end_sample": 8907897,
+                "label": "speech",
+                "start_sample": 8894675
+            },
+            {
+                "end_sample": 9102485,
+                "label": "speech",
+                "start_sample": 9101937
+            },
+            {
+                "end_sample": 9259958,
+                "label": "speech",
+                "start_sample": 9247873
+            },
+            {
+                "end_sample": 9343511,
+                "label": "speech",
+                "start_sample": 9340375
+            },
+            {
+                "end_sample": 9394832,
+                "label": "speech",
+                "start_sample": 9380582
+            },
+            {
+                "end_sample": 9429936,
+                "label": "speech",
+                "start_sample": 9419284
+            },
+            {
+                "end_sample": 9480668,
+                "label": "speech",
+                "start_sample": 9446978
+            },
+            {
+                "end_sample": 9575066,
+                "label": "speech",
+                "start_sample": 9501469
+            },
+            {
+                "end_sample": 9630646,
+                "label": "speech",
+                "start_sample": 9629410
+            },
+            {
+                "end_sample": 9649242,
+                "label": "speech",
+                "start_sample": 9648629
+            },
+            {
+                "end_sample": 9748091,
+                "label": "speech",
+                "start_sample": 9748090
+            },
+            {
+                "end_sample": 9767640,
+                "label": "speech",
+                "start_sample": 9764579
+            },
+            {
+                "end_sample": 9795430,
+                "label": "speech",
+                "start_sample": 9793449
+            },
+            {
+                "end_sample": 9816074,
+                "label": "speech",
+                "start_sample": 9811610
+            },
+            {
+                "end_sample": 9837005,
+                "label": "speech",
+                "start_sample": 9835225
+            },
+            {
+                "end_sample": 9862608,
+                "label": "speech",
+                "start_sample": 9862607
+            },
+            {
+                "end_sample": 9977964,
+                "label": "speech",
+                "start_sample": 9948808
+            },
+            {
+                "end_sample": 10018189,
+                "label": "speech",
+                "start_sample": 9996059
+            },
+            {
+                "end_sample": 10044306,
+                "label": "speech",
+                "start_sample": 10044305
+            },
+            {
+                "end_sample": 10085489,
+                "label": "speech",
+                "start_sample": 10065586
+            },
+            {
+                "end_sample": 10135785,
+                "label": "speech",
+                "start_sample": 10121625
+            },
+            {
+                "end_sample": 10474830,
+                "label": "speech",
+                "start_sample": 10152496
+            },
+            {
+                "end_sample": 10568199,
+                "label": "speech",
+                "start_sample": 10500324
+            },
+            {
+                "end_sample": 10592635,
+                "label": "speech",
+                "start_sample": 10585360
+            },
+            {
+                "end_sample": 10636528,
+                "label": "speech",
+                "start_sample": 10610572
+            },
+            {
+                "end_sample": 10689893,
+                "label": "speech",
+                "start_sample": 10684796
+            },
+            {
+                "end_sample": 10736715,
+                "label": "speech",
+                "start_sample": 10714130
+            },
+            {
+                "end_sample": 10792325,
+                "label": "speech",
+                "start_sample": 10767071
+            },
+            {
+                "end_sample": 10875317,
+                "label": "speech",
+                "start_sample": 10823279
+            },
+            {
+                "end_sample": 10974329,
+                "label": "speech",
+                "start_sample": 10896994
+            },
+            {
+                "end_sample": 11089673,
+                "label": "speech",
+                "start_sample": 10998621
+            },
+            {
+                "end_sample": 11107211,
+                "label": "speech",
+                "start_sample": 11106653
+            },
+            {
+                "end_sample": 11129965,
+                "label": "speech",
+                "start_sample": 11129335
+            },
+            {
+                "end_sample": 11152063,
+                "label": "speech",
+                "start_sample": 11151628
+            },
+            {
+                "end_sample": 11180374,
+                "label": "speech",
+                "start_sample": 11179001
+            },
+            {
+                "end_sample": 11229089,
+                "label": "speech",
+                "start_sample": 11227863
+            },
+            {
+                "end_sample": 11272906,
+                "label": "speech",
+                "start_sample": 11266477
+            },
+            {
+                "end_sample": 11330901,
+                "label": "speech",
+                "start_sample": 11308302
+            },
+            {
+                "end_sample": 11423166,
+                "label": "speech",
+                "start_sample": 11370307
+            },
+            {
+                "end_sample": 11482010,
+                "label": "speech",
+                "start_sample": 11441737
+            },
+            {
+                "end_sample": 11540272,
+                "label": "speech",
+                "start_sample": 11538512
+            },
+            {
+                "end_sample": 11596415,
+                "label": "speech",
+                "start_sample": 11568496
+            },
+            {
+                "end_sample": 11828034,
+                "label": "speech",
+                "start_sample": 11620707
+            },
+            {
+                "end_sample": 12099398,
+                "label": "speech",
+                "start_sample": 11847552
+            },
+            {
+                "end_sample": 12705026,
+                "label": "speech",
+                "start_sample": 12117384
+            },
+            {
+                "end_sample": 12791962,
+                "label": "speech",
+                "start_sample": 12727527
+            },
+            {
+                "end_sample": 12848853,
+                "label": "speech",
+                "start_sample": 12818547
+            },
+            {
+                "end_sample": 12937830,
+                "label": "speech",
+                "start_sample": 12867424
+            },
+            {
+                "end_sample": 13171375,
+                "label": "speech",
+                "start_sample": 12955176
+            },
+            {
+                "end_sample": 13585810,
+                "label": "speech",
+                "start_sample": 13205643
+            },
+            {
+                "end_sample": 13701644,
+                "label": "speech",
+                "start_sample": 13603891
+            },
+            {
+                "end_sample": 14054616,
+                "label": "speech",
+                "start_sample": 13720320
+            },
+            {
+                "end_sample": 14398619,
+                "label": "speech",
+                "start_sample": 14072444
+            },
+            {
+                "end_sample": 14572056,
+                "label": "speech",
+                "start_sample": 14426427
+            },
+            {
+                "end_sample": 14941330,
+                "label": "speech",
+                "start_sample": 14594141
+            },
+            {
+                "end_sample": 15131657,
+                "label": "speech",
+                "start_sample": 14959062
+            },
+            {
+                "end_sample": 15217344,
+                "label": "speech",
+                "start_sample": 15150756
+            },
+            {
+                "end_sample": 15246049,
+                "label": "speech",
+                "start_sample": 15234140
+            },
+            {
+                "end_sample": 15287092,
+                "label": "speech",
+                "start_sample": 15262202
+            },
+            {
+                "end_sample": 15472181,
+                "label": "speech",
+                "start_sample": 15303972
+            },
+            {
+                "end_sample": 15513933,
+                "label": "speech",
+                "start_sample": 15490361
+            },
+            {
+                "end_sample": 16592152,
+                "label": "speech",
+                "start_sample": 15534021
+            },
+            {
+                "end_sample": 16718385,
+                "label": "speech",
+                "start_sample": 16610325
+            },
+            {
+                "end_sample": 16787115,
+                "label": "speech",
+                "start_sample": 16746674
+            },
+            {
+                "end_sample": 16880103,
+                "label": "speech",
+                "start_sample": 16810142
+            },
+            {
+                "end_sample": 17459298,
+                "label": "speech",
+                "start_sample": 16896494
+            },
+            {
+                "end_sample": 17503997,
+                "label": "speech",
+                "start_sample": 17481825
+            },
+            {
+                "end_sample": 17804877,
+                "label": "speech",
+                "start_sample": 17523505
+            },
+            {
+                "end_sample": 18242544,
+                "label": "speech",
+                "start_sample": 17822051
+            },
+            {
+                "end_sample": 18407318,
+                "label": "speech",
+                "start_sample": 18261417
+            },
+            {
+                "end_sample": 18484658,
+                "label": "speech",
+                "start_sample": 18424752
+            },
+            {
+                "end_sample": 19762300,
+                "label": "speech",
+                "start_sample": 18501480
+            },
+            {
+                "end_sample": 19871195,
+                "label": "speech",
+                "start_sample": 19789934
+            },
+            {
+                "end_sample": 19979031,
+                "label": "speech",
+                "start_sample": 19888000
+            },
+            {
+                "end_sample": 20026453,
+                "label": "speech",
+                "start_sample": 19995956
+            },
+            {
+                "end_sample": 20067336,
+                "label": "speech",
+                "start_sample": 20047703
+            },
+            {
+                "end_sample": 20235812,
+                "label": "speech",
+                "start_sample": 20088814
+            },
+            {
+                "end_sample": 20272635,
+                "label": "speech",
+                "start_sample": 20255845
+            },
+            {
+                "end_sample": 20435429,
+                "label": "speech",
+                "start_sample": 20310559
+            },
+            {
+                "end_sample": 20504379,
+                "label": "speech",
+                "start_sample": 20454867
+            },
+            {
+                "end_sample": 20524173,
+                "label": "speech",
+                "start_sample": 20521212
+            },
+            {
+                "end_sample": 20715419,
+                "label": "speech",
+                "start_sample": 20545185
+            },
+            {
+                "end_sample": 20763401,
+                "label": "speech",
+                "start_sample": 20733582
+            },
+            {
+                "end_sample": 20827468,
+                "label": "speech",
+                "start_sample": 20782561
+            },
+            {
+                "end_sample": 20846364,
+                "label": "speech",
+                "start_sample": 20843969
+            },
+            {
+                "end_sample": 20925264,
+                "label": "speech",
+                "start_sample": 20874970
+            },
+            {
+                "end_sample": 20965060,
+                "label": "speech",
+                "start_sample": 20957356
+            },
+            {
+                "end_sample": 21068630,
+                "label": "speech",
+                "start_sample": 20988143
+            },
+            {
+                "end_sample": 21114499,
+                "label": "speech",
+                "start_sample": 21096471
+            },
+            {
+                "end_sample": 21472785,
+                "label": "speech",
+                "start_sample": 21133681
+            },
+            {
+                "end_sample": 21739452,
+                "label": "speech",
+                "start_sample": 21489654
+            }
+        ],
+        "format": "WAV",
+        "num_channels": 1,
+        "path": "/vol0/data/projects/aeid/16_kHz/VoxCeleb_I/TestCat/id10304/id10304.wav",
+        "sample_resolution_in_bits": 16,
+        "sampling_rate": 16000,
+        "set": null,
+        "subtype": "PCM_16"
+    },
+    "path": "/vol0/data/projects/aeid/16_kHz/VoxCeleb_I/TestCat/id10304/id10304.wav",
+    "sample_resolution_in_bits": 16,
+    "sampling_rate": 16000,
+    "set": null,
+    "subtype": "PCM_16"
+}
